@@ -216,10 +216,10 @@ Handles ESP8266 communication via AT commands:
 
 ### Photos
 
-- [Circuit Diagram](https://github.com/BlaynaFerns/Food-Spoilage-Detection/blob/main/Layout.png)  
+- [Circuit Diagram](https://github.com/BlaynaFerns/Food-Spoilage-Detection/blob/main/Circuit_Diagram.png)  
 - [Hardware Setup](https://github.com/BlaynaFerns/Food-Spoilage-Detection/blob/main/Hardware_Setup.jpg)
-- [Layout](https://github.com/BlaynaFerns/Food-Spoilage-Detection/blob/main/Experimental_Analysis.png)
-- [Experimental Analysis](https://github.com/BlaynaFerns/Food-Spoilage-Detection/blob/main/Circuit_Diagram.png)  
+- [Layout](https://github.com/BlaynaFerns/Food-Spoilage-Detection/blob/main/Layout.png)
+- [Experimental Analysis](https://github.com/BlaynaFerns/Food-Spoilage-Detection/blob/main/Experimental_Analysis.png)  
 
 ---
 
